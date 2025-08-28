@@ -1,0 +1,2 @@
+# Disease-Prediction
+🩺 Disease Detector
